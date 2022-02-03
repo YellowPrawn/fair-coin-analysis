@@ -1,1 +1,1 @@
-# renv-practice
+# Fair coin analysis
